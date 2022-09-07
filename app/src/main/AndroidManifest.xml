@@ -24,12 +24,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<!--        <activity-->
-<!--            android:name=".forgotpassword"/>-->
-        <!--            android:exported="false" />-->
-<!--        <activity-->
-<!--            android:name=".signup"/>-->
-        <!--            android:exported="false" />-->
+        <activity
+            android:name=".forgotpassword"/>
+<!--                    android:exported="false" />-->
+        <activity
+            android:name=".signup"/>
+<!--                    android:exported="false" />-->
     </application>
 
 </manifest>
